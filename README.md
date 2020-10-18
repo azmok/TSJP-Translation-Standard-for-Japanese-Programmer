@@ -17,10 +17,10 @@
 
 ```js
 // カタカナ語の場合
-(ja) カタカナ語 --> 語彙(概念)説明 [!理解!] 			// 2 steps
+(ja) カタカナ語 --> 語彙(概念)説明 [!理解!] // 2 steps
 
 // 英語の場合
-(en) term 		 ->  explanation 							// 2 steps
+(en) term 		-->  explanation [!理解!] // 2 steps
 ```
 
 
