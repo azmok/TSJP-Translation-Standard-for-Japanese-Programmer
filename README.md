@@ -47,7 +47,7 @@
 
 草案として、いくつかの翻訳語が記述してありますが、最終的には1つにまとめられれば理想だと思います。また、日本に概念が存在しないものは、そのままカタカナ語にしてあります。
 
-<a href='https://github.com/azmok/TSPJ-Translation-Standard-for-Programming-in-Japan-/blob/master/terms_en_ja20201018.md'>🚀対訳語テーブル🚀</a>
+<a href='https://github.com/azmok/TSPJ-Translation-Standard-for-Programming-in-Japan-/blob/master/terms_en_ja.md'>🚀対訳語テーブル🚀</a>
 
 
 
