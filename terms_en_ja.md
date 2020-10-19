@@ -124,7 +124,7 @@
       </tr>
       <tr>
          <td>classical</td>
-         <td>系統系の,クラス的</td>
+         <td>系統的,クラス的</td>
          <td>クラシカル</td>
       </tr>
       <tr>
@@ -184,7 +184,7 @@
       </tr>
       <tr>
          <td>constructor</td>
-         <td>生成機</td>
+         <td>製造係</td>
          <td>コンストラクター</td>
       </tr>
       <tr>
@@ -629,7 +629,7 @@
       </tr>
       <tr>
          <td>prototypal</td>
-         <td>原型系の</td>
+         <td>原型的</td>
          <td>プロトタイパル</td>
       </tr>
       <tr>
