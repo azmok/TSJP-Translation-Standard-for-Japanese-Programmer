@@ -53,6 +53,11 @@
          <td>属性</td>
       </tr>
       <tr>
+         <td>best practice</td>
+         <td>最善行動</td>
+         <td>ベストプラクティス</td>
+      </tr>
+      <tr>
          <td>binding</td>
          <td>結束</td>
          <td>バインディング</td>
