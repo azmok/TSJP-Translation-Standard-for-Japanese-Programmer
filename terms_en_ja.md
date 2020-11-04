@@ -54,7 +54,7 @@
       </tr>
       <tr>
          <td>best practice</td>
-         <td>最善行動,最善手</td>
+         <td>最善手</td>
          <td>ベストプラクティス</td>
       </tr>
       <tr>
