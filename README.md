@@ -1,47 +1,51 @@
-# 背景・動機
-カタカナ用語ばかりが次々に出てきて、よく分からなくなり、やる気を無くしてしまった経験はないでしょうか。また、カタカナ用語の解説がなされていなくて、結局英語まで遡って調べた経験はないでしょうか。
+# Motivation
+Have you ever been overwhelmed encountering 'katakana translation' one after another. Or, Have you ever searched recursively from Japanese to English to understand words or concepts due to 'katakana translation' and loss of explanation of the words.
 
-実際僕は、日本語版MDNや他の解説で幾度となく経験しました。これは学習者、特に初学者の学習意欲を大きく削ぎます。「翻訳である事+解説不備」が相まって、プログラミング以外の部分で学習者の意欲を削いでしまいます。
+In fact, I had experirenced many times in MDN(ja) or other websites (So, I've been learning programming in English only as of those event). This extremely discourage learners, especially beginners, and it makes extremely difficult to grasp the whole. So, you may concluded that it was your inability. But those distress is caused by 'katakana' translation and loss of explanations.
 
-解説不備のため理解できなかったのに、「理解できない自分の頭が悪い」と結論づけてしまった人は少なくはないと思います。ただ、解説者も時間を割いて、しかもMDN等は無償で時間を割いて翻訳を作成されていたりして、結局誰も悪くないのに、学習者(初学者)への理不尽な壁が存在してしまっていると、私は感じています。
+In addition, those distress are essencially not relevant to programming itself.
 
-僕も初期の頃経験したと言いましたが、そういう経緯もあり、今はプログラミングに関するインプットは全て英語でしています。
-
-
-僕は今プログラミングが面白く好きで仕方ありません。だからこそ、上記の様な理由で「プログラミングが難しい・面白くない」と感じて挫折したり離れていってしまう人が居るとするなら、本人にとっても凄く勿体ないと思うのです。
-
-この様な事を少しでも軽減できたらと思いこのプロジェクトを立ち上げました。
+This is not anybody else's faultness, but such deficiency definitely creates unreasonable wall for learners. For creators of tutorials, those are kind enough to spare times making tutorials for learners that follows without fees. 
 
 
-# 語彙理解までの手数
+For now, I absolutely love coding and learning programming! So, I want to take away the wall and prevent beginners or learners from leaving programming. Programming is compelling and enjoyable! XD
+
+
+
+
+# The steps to understand
 
 ```js
-// カタカナ用語の場合
-(ja) カタカナ用語 --> 用語解説 [!理解!] // 2 steps
+// PERFECT-katakana-translation
+katakana term(ja) 
+--> explanation(ja) [Got it!] // 2 steps
 
-// 英語の場合
-(en) term --> explanation [!Got it!] // 2 steps
+// English
+term(en) 
+--> explanation(en) [Got it!] // 2 steps
 ```
 
 
 
 
-# 標準化すべき理由
-上の手数表の`(ja)`が「常に漏れなく完全に」行われるなら、翻訳基準は必要ない。なぜなら、英語の場合も手数が同じだからだ。
+# The reason why we should standardize en-ja translation of terms
+Standardization is not necessary if all Japanese tutorials fulfill the steps like 'perfect-katakana-translation'. The reason is that the number of the steps in both Japanese and English are same.
 
-ただ、現実問題として、(ja)が「常に漏れなく完全に」行われる事は99.9999...%ない。なぜなら、解説者のトピックに関する理解度、英語(日本語)への習熟度、説明の仕方、が千差万別だから。また、私経験にはなりますが、語句・概念の説明がなかったり、間違った説明をしているものがありました。
+But, in fact, almost all websites don't fulfill the above condition. In worse case, the explanation that is rare in Japanese website exists, but the wrong explanation.
 
-
-また、私が経験した様に、語彙の説明が不十分・曖昧な場合、理解までに更に長い手数が必要になる。
 
 ```js
-(ja-2) カタカナ用語 --> (用語解説?) --> english --> definition [!理解!] // 3|4 steps
+// BAD-katakana-translation
+katakana term(ja) 
+--> ( explanation(ja) )? 
+--> explanation(en) 
+--> definition(en) [Got it!] // 3|4 steps
 ```
 
 
 
 
-# 解決策
+# Solution
 そこで、どの言語にもおおよそ共通して使用される基礎的用語に関し、「用語翻訳の基準」の設定を提案します　
 
 
@@ -51,18 +55,16 @@
 
 
 
-## メリット
+## Pros
 - 漢字から語彙の意味が憶測でき、なるべくネイティブに近い感覚で用語を理解できる
 - よって、例え用語の解説がなくても、留まる事なく学習が進められる
 
-## デメリット
-- 
+## Cons
 
 
 
-
-## 実例
-初学者が読むと想定して…
+## Exmaple
+Suppose beginner reads the following...
 
 ### ×
 ```js
@@ -78,5 +80,5 @@ JavaScriptの値の種類は、物体、配列、文字、真偽値...。
 
 
 
-# プルリク・提案
-プルリク、提案は、バイリンガル以上の方のみでお願い致します(｡•ㅅ•｡)🌟
+# pull request, suggestion
+Welcome to any pull request or suggestion! But I hope you are biligual or more(｡•ㅅ•｡)
