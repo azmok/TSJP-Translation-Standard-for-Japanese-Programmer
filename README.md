@@ -31,7 +31,7 @@ term(en)
 # The reason why we should standardize en-ja translation of terms
 Standardization is not necessary if all Japanese tutorials fulfill the steps like 'PERFECT-katakanaTerm-translation'. The reason is that the number of the steps in both Japanese and English are same.
 
-But, in fact, almost all websites don't fulfill the above condition. In worse case, the explanation that is rare in Japanese website exists, but the wrong explanation.
+But, in fact, almost all websites don't fulfill the above condition. In worse case, the explanation that is rare in Japanese website do exists, but it's incorrect explanation.
 
 
 ```js
