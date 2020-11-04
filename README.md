@@ -33,7 +33,7 @@ Standardization is not necessary if all Japanese tutorials fulfill the two steps
 
 But, in fact, almost all websites don't fulfill the above condition. In worse case, the explanation about katakana-formed terms that is rare in Japanese website, do exists, but it's incorrect.
 
-If we encounter the situation that the tutorial or the documentation contains katakana-formed term and no explanation of that term, we sertainly follow the flow below:
+If we encounter the situation that the tutorial or the documentation contains katakana-formed term and no explanation of that term, we certainly follow the flow below:
 
 
 ```js
