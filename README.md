@@ -31,7 +31,7 @@ term(en)
 # The reason why we should standardize en-ja translation of terms
 Standardization is not necessary if all Japanese tutorials fulfill the steps like 'PERFECT-katakanaTerm-translation'. The reason is that the number of the steps in both Japanese and English are same.
 
-But, in fact, almost all websites don't fulfill the above condition. In worse case, the explanation that is rare in Japanese website do exists, but it's incorrect explanation.
+But, in fact, almost all websites don't fulfill the above condition. In worse case, the explanation that is rare in Japanese website do exists, but it's incorrect.
 
 
 ```js
@@ -46,18 +46,18 @@ katakana term(ja)
 
 
 # Solution
-そこで、どの言語にもおおよそ共通して使用される基礎的用語に関し、「用語翻訳の基準」の設定を提案します　
+I suggest standardizing translation of terms for programming, that is, listing the terms those is fundamental in any programming language, and terms listed is tranlsated  from English to Japanese in parallel. The translated japanese term may be only one or more, and if translated terms are some, those is picked by user(creator of tutorial) accoding to context.
 
 
-草案として、一つの用語に対し、いくつかの翻訳語が記述してありますが、最終的には1つにまとめられれば理想だと思います。また、日本語に概念が存在しないものは、そのままカタカナ語にしてあります。
+If the concept doesn't exist in Japanese, I've tranlsated those words to 'katakan' form.
 
-<a href='https://github.com/azmok/TSPJ-Translation-Standard-for-Programming-in-Japan-/blob/master/terms_en_ja.md'>🚀対訳語テーブル🚀</a>
+<a href='https://github.com/azmok/TSPJ-Translation-Standard-for-Programming-in-Japan-/blob/master/terms_en_ja.md'>🚀Parallel en-ja Translation Table🚀</a>
 
 
 
 ## Pros
-- 漢字から語彙の意味が憶測でき、なるべくネイティブに近い感覚で用語を理解できる
-- よって、例え用語の解説がなくても、留まる事なく学習が進められる
+1. Possible to guess the meaning of the term and enable to understand the term like a native
+2. (1) enable to proceed learning if tutorial lacks explanation of the term
 
 ## Cons
 
