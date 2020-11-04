@@ -1,7 +1,7 @@
 # Motivation
-Have you ever been overwhelmed encountering 'katakana translation' one after another. Or, Have you ever searched recursively from Japanese to English to understand words or concepts due to 'katakana translation' and loss of explanation of the words.
+Have you ever been overwhelmed encountering 'katakana translation' one after another. Or, Have you ever searched recursively from Japanese to English to understand terms or concepts due to 'katakana translation' and lack of explaining the terms.
 
-In fact, I had experirenced many times in MDN(ja) or other websites (So, I've been learning programming in English only as of those event). This extremely discourage learners, especially beginners, and it makes extremely difficult to grasp the whole. So, you may concluded that it was your inability. But those distress is caused by 'katakana translation' and loss of explanations.
+In fact, I had experirenced many times in MDN(ja) or other websites (So, I've been learning programming in English only as of those event). This extremely discourage learners, especially beginners, and it makes extremely difficult to grasp the whole. So, you may concluded that it was your inability. But those distress is caused by 'katakana translation' and lack of explanations.
 
 In addition, those distress are essentially not relevant to programming itself.
 
@@ -49,7 +49,7 @@ katakana term(ja)
 I suggest standardizing translation of terms for programming, that is, listing the terms those is fundamental in any programming language, and terms listed is tranlsated  from English to Japanese in parallel. The translated japanese term may be only one or more, and if translated terms are some, those is picked by user(creator of tutorial) accoding to context.
 
 
-If the concept doesn't exist in Japanese, I've tranlsated those words to 'katakan' form.
+If the concept doesn't exist in Japanese, I've tranlsated those terms to 'katakan' form.
 
 <a href='https://github.com/azmok/TSPJ-Translation-Standard-for-Programming-in-Japan-/blob/master/terms_en_ja.md'>🚀Parallel en-ja Translation Table🚀</a>
 
