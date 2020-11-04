@@ -16,7 +16,7 @@ For now, I absolutely love coding and learning programming! So, I want to take a
 # General steps to understand terms in Japanese and English
 
 ```js
-// PERFECT-katakana-translation
+// PERFECT-katakanaTerm-translation
 katakana term(ja) 
 --> explanation(ja) [Got it!] // 2 steps
 
@@ -35,7 +35,7 @@ But, in fact, almost all websites don't fulfill the above condition. In worse ca
 
 
 ```js
-// BAD-katakana-translation
+// BAD-katakanaTerm-translation
 katakana term(ja) 
 --> ( explanation(ja) )? 
 --> explanation(en) 
