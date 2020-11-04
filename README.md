@@ -80,5 +80,5 @@ JavaScriptの値の種類は、物体、配列、文字、真偽値...。
 
 
 
-# pull request, suggestion
-Welcome to any pull request or suggestion! But I hope you are biligual or more(｡•ㅅ•｡)
+# Pull Requests, Suggestions
+Welcome to any pull requests or suggestions! But I hope you are biligual or more(｡•ㅅ•｡)
