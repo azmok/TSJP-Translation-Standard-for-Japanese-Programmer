@@ -13,7 +13,7 @@ For now, I absolutely love coding and learning programming! So, I want to take a
 
 
 
-# The steps to understand
+# General steps to understand terms in Japanese and English
 
 ```js
 // PERFECT-katakana-translation
