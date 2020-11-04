@@ -1,14 +1,14 @@
 # Motivation
-Have you ever been overwhelmed encountering 'katakana translation' one after another. Or, Have you ever searched recursively from Japanese to English to understand terms or concepts due to 'katakana translation' and lack of explaining the terms.
+Have you ever been overwhelmed encountering 'katakana-formed term' one after another. Or, Have you ever searched recursively from Japanese to English to understand the terms or concepts due to katakana-formed and lack of explaination of the 'katakana-formed term".
 
-In fact, I had experirenced many times in MDN(ja) or other websites (So, I've been learning programming in English only as of those event). This extremely discourage learners, especially beginners, and it makes extremely difficult to grasp the whole. So, you may concluded that it was your inability. But those distress is caused by 'katakana translation' and lack of explanations.
+In fact, I had experirenced many times in MDN(ja) or other websites (So, I've been learning programming in English as of those event). This extremely discourage learners, especially beginners, and it makes extremely difficult to grasp the whole about topics. Due to this, you may concluded that it was your inability not to understand the topics. But those distress is caused by 'katakana-formed term' and lack of explanation of the terms.
 
 In addition, those distress are essentially not relevant to programming itself.
 
 This is not anybody else's faultness, but such deficiency definitely creates unreasonable wall for learners. For creators of tutorials, those are kind enough to spare times making tutorials for learners that follows without fees. 
 
 
-For now, I absolutely love coding and learning programming! So, I want to take away the wall and prevent beginners or learners from leaving programming. Programming is compelling and enjoyable! XD
+I absolutely love coding and learning programming! So, I want to take the wall away and prevent beginners or learners from leaving programming world. Programming is compelling and enjoyable! XD
 
 
 
@@ -16,8 +16,8 @@ For now, I absolutely love coding and learning programming! So, I want to take a
 # General steps to understand terms in Japanese and in English
 
 ```js
-// PERFECT-katakanaTerm-translation
-katakana term(ja) 
+// katakanaFormed-term
+katakanaFormed-term(ja) 
 --> explanation(ja) [Got it!] // 2 steps
 
 // English
@@ -29,42 +29,40 @@ term(en)
 
 
 # The reason why we should standardize en-ja translation of terms
-Standardization is not necessary if all Japanese tutorials fulfill the steps like 'PERFECT-katakanaTerm-translation'. The reason is that the number of the steps in both Japanese and English are same.
+Standardization is not necessary if all Japanese tutorials fulfill the two steps like above flows. The number of the steps both in Japanese and English are equal, and no problem when terms is translated to katakana form.
 
-But, in fact, almost all websites don't fulfill the above condition. In worse case, the explanation that is rare in Japanese website do exists, but it's incorrect.
+But, in fact, almost all websites don't fulfill the above condition. In worse case, the explanation about katakana-formed terms that is rare in Japanese website, do exists, but it's incorrect.
 
 
 ```js
-// BAD-katakanaTerm-translation
-katakana term(ja) 
---> ( explanation(ja) )? 
---> explanation(en) 
---> definition(en) [Got it!] // 3|4 steps
+// katakanaFormed-term
+katakanaFormed-term(ja) 
+--> (  )
+--> definition(en)
+--> explanation(en) [Got it!] // 3steps
 ```
 
 
 
 
 # Solution
-I suggest standardizing translation of terms for programming, that is, listing the terms those is fundamental in any programming language, and terms listed is tranlsated  from English to Japanese in parallel. The translated japanese term may be only one or more, and if translated terms are some, those is picked by user(creator of tutorial) accoding to context.
+I suggest standardizing translation of terms for programming, that is, listing the terms those are fundamental in any programming language, and terms listed is tranlsated from English to Japanese in parallel. The translated Japanese term may be only one or more, and if translated terms are some, those is picked by user(creator of tutorials) accoding to context.
 
 
-If the concept doesn't exist in Japanese, I've tranlsated those terms to 'katakan' form.
+If the concept doesn't exist in Japanese, finaly, I've tranlsated those terms to 'katakan form'.
 
 <a href='https://github.com/azmok/TSPJ-Translation-Standard-for-Programming-in-Japan-/blob/master/terms_en_ja.md'>🚀Parallel en-ja Translation Table🚀</a>
 
 
 
-## Pros
+## Merit
 1. Possible to guess the meaning of the term and enable to understand the term like a native
-2. (1) enable to proceed learning if tutorial lacks explanation of the term
-
-## Cons
+2. (1) enable learners to proceed learning if tutorial lacks explanation of the term
 
 
 
 ## Exmaple
-Suppose beginner reads the following...
+Suppose beginners read the following sentence...
 
 ### ×
 ```js
