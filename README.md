@@ -1,7 +1,7 @@
 # Motivation
 Have you ever been overwhelmed encountering 'katakana translation' one after another. Or, Have you ever searched recursively from Japanese to English to understand words or concepts due to 'katakana translation' and loss of explanation of the words.
 
-In fact, I had experirenced many times in MDN(ja) or other websites (So, I've been learning programming in English only as of those event). This extremely discourage learners, especially beginners, and it makes extremely difficult to grasp the whole. So, you may concluded that it was your inability. But those distress is caused by 'katakana' translation and loss of explanations.
+In fact, I had experirenced many times in MDN(ja) or other websites (So, I've been learning programming in English only as of those event). This extremely discourage learners, especially beginners, and it makes extremely difficult to grasp the whole. So, you may concluded that it was your inability. But those distress is caused by 'katakana translation' and loss of explanations.
 
 In addition, those distress are essencially not relevant to programming itself.
 
