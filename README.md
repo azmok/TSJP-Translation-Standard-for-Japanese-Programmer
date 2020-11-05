@@ -8,7 +8,7 @@ In addition, those distress are essentially not relevant to programming itself.
 This is not anybody else's faultness, but such deficiency definitely creates unreasonable wall for learners. For creators of tutorials, those are kind enough to spare times making tutorials for learners that follows without fees. 
 
 
-I absolutely love coding and learning programming! So, I want to take the wall away and prevent beginners or learners from leaving programming world. Programming is compelling and enjoyable! XD
+I absolutely love coding and learning programming! So, I want to take the wall away and prevent beginners or learners from leaving programming world. Programming is compelling and joyfull! XD
 
 
 
@@ -18,40 +18,39 @@ I absolutely love coding and learning programming! So, I want to take the wall a
 ```js
 // katakanaFormed-term
 katakanaFormed-term(ja) 
---> explanation(ja) [Got it!] // 2 steps
+	--> explanation(ja) [Got it!] // 2 steps
 
 // English
 term(en) 
---> explanation(en) [Got it!] // 2 steps
+	--> explanation(en) [Got it!] // 2 steps
 ```
 
 
 
 
 # The reason why we should standardize en-ja translation of terms
-Standardization is not necessary if all Japanese tutorials fulfill the two steps like above flows. The number of the steps both in Japanese and English are equal, and no problem when terms is translated into katakana-formed.
+Standardization is not necessary if all Japanese tutorials fulfill the two steps like above flows. The number of the steps both in Japanese and in English are equal, and no problem when terms is translated into katakana-formed.
 
 But, in fact, almost all websites don't fulfill the above condition. In worse case, the explanation about katakana-formed terms that is rare in Japanese website, do exists, but it's incorrect.
 
-If we encounter the situation that the tutorial or the documentation contains katakana-formed term and no explanation of that term, we certainly follow the flow below:
+If we encounter the situation that the tutorial or the documentation contains katakana-formed term and no explanation of that term, we certainly follow the below steps:
 
 
 ```js
 // katakanaFormed-term
-katakanaFormed-term(ja) 
---> (  )
---> definition(en)
---> explanation(en) [Got it!] // 3steps
+katakanaFormed-term(ja)
+	--> definition(en)
+	--> explanation(en) [Got it!] // 3steps
 ```
 
 
 
 
 # Solution
-I suggest standardizing translation of terms for programming, that is, listing the terms those are fundamental in any programming language, and terms listed is tranlsated from English to Japanese in parallel. The translated Japanese term may be only one or more, and if the translated Japanese are two or more, those is picked by user(creator of tutorials) accoding to context.
+I suggest standardizing translation of terms for programming, that is, listing the terms those are fundamental in any programming language, and terms listed is tranlsated from English to Japanese in parallel. The translated Japanese term may be only one or more, and if the translated Japanese are two or more, those is picked by the user(creator of tutorials) accoding to its context.
 
 
-If the concept essentially doesn't exist in Japanese or the katakana-formed is accepted as 'WASEI EIGO' in Japan, I've tranlsated those terms to 'katakana-formed'.
+If an concept essentially doesn't exist in Japanese or the katakana-formed is usually accepted as 'WASEI EIGO' in Japan, I've tranlsated those terms to 'katakana-formed'.
 
 <a href='https://github.com/azmok/TSPJ-Translation-Standard-for-Programming-in-Japan-/blob/master/terms_en_ja.md'>🚀Parallel en-ja Translation Table🚀</a>
 
