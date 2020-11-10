@@ -8,7 +8,7 @@ In addition, those distress are essentially not relevant to programming itself.
 This is not anybody else's faultness, but such deficiency definitely creates unreasonable wall for learners. For creators of tutorials, those are kind enough to spare times making tutorials for learners that follows without fees. 
 
 
-I absolutely love coding and learning programming! So, I want to take the wall away and prevent beginners or learners from leaving programming world. Programming is compelling and joyfull! XD
+I absolutely love coding and learning programming! So, I want to take the wall away and prevent beginners or learners from leaving programming world. Programming is compelling and enjoyable! XD
 
 
 
@@ -31,7 +31,7 @@ term(en)
 # The reason why we should standardize en-ja translation of terms
 Standardization is not necessary if all Japanese tutorials fulfill the two steps like above flows. The number of the steps both in Japanese and in English are equal, and no problem when terms is translated into katakana-formed.
 
-But, in fact, almost all websites don't fulfill the above condition. In worse case, the explanation about katakana-formed terms that is rare in Japanese website, do exists, but it's incorrect.
+But, in fact, almost all websites don't fulfill the above condition. In worse case, the explanation about katakana-formed terms that is rare in Japanese website, do exists, however it's incorrect.
 
 If we encounter the situation that the tutorial or the documentation contains katakana-formed term and no explanation of that term, we certainly follow the below steps:
 
@@ -58,7 +58,7 @@ If an concept essentially doesn't exist in Japanese or the katakana-formed is us
 
 ## Merit
 1. Possible to guess the meaning of the term and enable to understand the term like a native
-2. (1) enable learners to proceed learning if tutorial lacks explanation of the term
+2. (1) enables learners to proceed learning if tutorial lacks explanation of the term
 
 
 
@@ -80,4 +80,4 @@ JavaScriptの値の種類は、物体、配列、文字、真偽値...。
 
 
 # Pull Requests, Suggestions
-Welcome to any pull requests or suggestions! But I hope you are biligual or more(｡•ㅅ•｡)
+Welcome to any pull requests or suggestions! I want to this enables Japanese learner of   programming to feel interesting and exciting to learn programming in Japanese, too.
