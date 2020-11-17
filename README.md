@@ -80,4 +80,4 @@ JavaScriptの値の種類は、物体、配列、文字、真偽値...。
 
 
 # Pull Requests, Suggestions
-Welcome to any pull requests or suggestions! I want to this enables Japanese learner of   programming to feel interesting and exciting to learn programming in Japanese, too.
+Welcome to any pull requests or suggestions! I convince that this makes those who learn programming in Japanese feeling interesting and exciting to learn programming, too!
