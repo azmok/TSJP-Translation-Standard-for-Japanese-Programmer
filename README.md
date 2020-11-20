@@ -1,7 +1,7 @@
 # Motivation
 Have you ever been overwhelmed by encountering 'katakana-formed term', e.g., 'オブジェク', 'プロパティ', one after another. Or, Have you ever searched recursively from Japanese to English to understand the terms or concepts due to katakana-formed and lack of explaination of the 'katakana-formed term'.
 
-In fact, I had experirenced many times in MDN(ja) or other websites (So, I've been learning programming in English as of those event). This extremely discourage learners, especially beginners, and it makes extremely difficult to grasp the whole about topics. Due to this, you may concluded that it was your inability not to understand the topics. But those distress is caused by 'katakana-formed term' and lack of explanation of the terms.
+In fact, I had experirenced many times in MDN(ja) or other websites (So, I've been learning programming in English as of those event). This extremely discourage learners, especially beginners, and it makes extremely difficult to grasp the whole about topics. Due to this, you may concluded that it was your inability not to understand the topics. But those distress is caused by conjunction of 'katakana-formed term' and lack of explanation of the terms.
 
 In addition, those distress are essentially not relevant to programming itself.
 
