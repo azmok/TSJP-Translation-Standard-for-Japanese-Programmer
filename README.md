@@ -29,7 +29,7 @@ term(en)
 
 
 # The reason why we should standardize en-ja translation of terms
-Standardization is not necessary if all Japanese tutorials fulfill the two steps like above flows. The number of the steps both in Japanese and in English are equal, and no problem when terms is translated into katakana-formed.
+Standardization is not necessary if all Japanese tutorials fulfill the two steps like above flows. The number of the steps both in Japanese and in English are equal, and no problem if terms is translated into katakana-formed.
 
 But, in fact, almost all websites don't fulfill the above condition. In worse case, the explanation about katakana-formed terms that is rare in Japanese website, do exists, however it's incorrect.
 
@@ -50,14 +50,14 @@ katakanaFormed-term(ja)
 I suggest standardizing translation of terms for programming, that is, listing the terms those are fundamental in any programming language, and terms listed is tranlsated from English to Japanese in parallel. The translated Japanese term may be only one or more, and if the translated Japanese are two or more, those is picked by the user(creator of tutorials) accoding to its context.
 
 
-If an concept essentially doesn't exist in Japanese or the katakana-formed is usually accepted as 'WASEI EIGO' in Japan, I've tranlsated those terms to 'katakana-formed'.
+If an concept essentially doesn't exist in Japanese, or the katakana-formed is usually accepted as 'WASEI EIGO' in Japan, I've tranlsated those terms to 'katakana-formed'.
 
 <a href='https://github.com/azmok/TSPJ-Translation-Standard-for-Programming-in-Japan-/blob/master/terms_en_ja.md'>🚀Parallel en-ja Translation Table🚀</a>
 
 
 
 ## Merit
-1. Possible to guess the meaning of the term and enable to understand the term like a native
+1. It enables learners to guess the meaning of the term from the 'kanji' and to understand the term like a native
 2. (1) enables learners to proceed learning if tutorial lacks explanation of the term
 
 
