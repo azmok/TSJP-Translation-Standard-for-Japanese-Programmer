@@ -29,7 +29,7 @@ term(en)
 
 
 # The reason why we should standardize en-ja translation of terms
-Standardization is not necessary if all Japanese tutorials fulfill the two steps like above flows. The number of the steps both in Japanese and in English are equal, and no problem if terms is translated into katakana-formed.
+Standardization is not necessary if all Japanese tutorials fulfill the two steps like above flows. The number of the steps both in Japanese and in English are equal, and no problem even if terms is translated into katakana-formed.
 
 But, in fact, almost all websites don't fulfill the above condition. In worse case, the explanation about katakana-formed terms that is rare in Japanese website, do exists, however it's incorrect.
 
