@@ -819,7 +819,7 @@
       </tr>
       <tr>
          <td>token</td>
-         <td>引換券、字句</td>
+         <td>引換券、印</td>
          <td>トークン</td>
       </tr>
       <tr>
