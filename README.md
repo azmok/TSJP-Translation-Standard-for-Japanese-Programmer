@@ -52,7 +52,7 @@ I suggest standardizing translation of terms for programming, that is, listing t
 
 If the concept essentially doesn't exist in Japanese, or the katakana-formed is usually accepted as 'WASEI EIGO' in Japan, I've tranlsated those terms to 'katakana-formed'.
 
-<a href='https://github.com/azmok/TSPJ-Translation-Standard-for-Programming-in-Japan-/blob/master/terms_en_ja.md'>🚀Parallel en-ja Translation Table🚀</a>
+<a href='https://github.com/azmok/TSPJ-Translation-Standard-for-Programming-in-Japan-/blob/master/terms_en_ja.md' target='_blank'>🚀Parallel en-ja Translation Table🚀</a>
 
 
 
