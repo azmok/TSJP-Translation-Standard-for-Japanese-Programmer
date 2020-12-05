@@ -47,12 +47,12 @@ katakanaFormed-term(ja)
 
 
 # Solution
-I suggest standardizing translation of terms for programming, that is, listing the terms those are fundamental in any programming language, and terms listed is tranlsated from English to Japanese in parallel. The translated Japanese term may be only one or more, and if the translated Japanese are two or more, those is picked by the user(creator of tutorials) according to its context.
+I suggest standardizing translation of terms for programming, that is, listing the terms that are fundamental in any programming language, and terms listed is tranlsated from English to Japanese in parallel. The translated Japanese term may be only one or more, and if the translated Japanese are two or more, those could be picked by the user, creator of the tutorial or translator of the documentation, according to its context.
 
 
 If the concept essentially doesn't exist in Japanese, or the katakana-formed is usually accepted as 'WASEI EIGO' in Japan, I've tranlsated those terms to 'katakana-formed'.
 
-<a href='https://github.com/azmok/TSPJ-Translation-Standard-for-Programming-in-Japan-/blob/master/terms_en_ja.md' target="_blank">🚀Parallel en-ja Translation Table🚀</a>
+<a href='https://github.com/azmok/TSPJ-Translation-Standard-for-Programming-in-Japan-/blob/master/terms_en_ja.md' target='_blank'>🚀Parallel en-ja Translation Table🚀</a>
 
 
 
