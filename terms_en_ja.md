@@ -608,6 +608,11 @@
          <td>パスワード</td>
       </tr>
       <tr>
+         <td>path</td>
+         <td>道筋</td>
+         <td>パス</td>
+      </tr>
+      <tr>
          <td>persona</td>
          <td>社会的性格</td>
          <td>ペルソナ</td>
