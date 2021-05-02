@@ -23,6 +23,11 @@
          <td>[足し算,加法]</td>
       </tr>
       <tr>
+         <td>add-on</td>
+         <td>追加機能(群)</td>
+         <td>アドオン</td>
+      </tr>
+      <tr>
          <td>agent</td>
          <td>仕事人,エージェント</td>
          <td>エージェント</td>
@@ -41,6 +46,11 @@
          <td>array</td>
          <td>配列</td>
          <td>配列</td>
+      </tr>
+      <tr>
+         <td>associativity</td>
+         <td>結合性</td>
+         <td>結合性</td>
       </tr>
       <tr>
          <td>assignment</td>
@@ -514,7 +524,7 @@
       </tr>
       <tr>
          <td>module</td>
-         <td>独立的要素</td>
+         <td>(構成)要素</td>
          <td>モジュール</td>
       </tr>
       <tr>
@@ -613,6 +623,11 @@
          <td>原始値</td>
       </tr>
       <tr>
+         <td>precedence</td>
+         <td>優先順位</td>
+         <td>優先順位</td>
+      </tr>
+      <tr>
          <td>predicate</td>
          <td>述語</td>
          <td></td>
@@ -681,6 +696,11 @@
          <td>return value</td>
          <td>返却値</td>
          <td>[返却値/戻り値]</td>
+      </tr>
+      <tr>
+         <td>routing</td>
+         <td>経路</td>
+         <td>ルーティング</td>
       </tr>
       <tr>
          <td>running execution context</td>
@@ -836,6 +856,11 @@
          <td>undefined</td>
          <td>未定義</td>
          <td>未定義</td>
+      </tr>
+      <tr>
+         <td>unit</td>
+         <td>(構成)要素</td>
+         <td>ユニット</td>
       </tr>
       <tr>
          <td>user</td>
