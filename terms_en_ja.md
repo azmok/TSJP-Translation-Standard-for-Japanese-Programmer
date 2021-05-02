@@ -609,7 +609,7 @@
       </tr>
       <tr>
          <td>path</td>
-         <td>道筋</td>
+         <td>道筋, 道順</td>
          <td>パス</td>
       </tr>
       <tr>
