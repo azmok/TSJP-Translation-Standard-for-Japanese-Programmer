@@ -1,3 +1,5 @@
+<a href="https://github.com/azmok/TSPJ-Translation-Standard-for-Programming-in-Japan-/blob/master/README.ja.md">日本語版</a>
+
 # Motivation
 Have you ever been overwhelmed by encountering 'katakana-formed term', e.g., 'オブジェク', 'プロパティ', one after another. Or, Have you ever searched recursively from Japanese to English to understand the terms or concepts due to katakana-formed and lack of explaination of the 'katakana-formed term'.
 

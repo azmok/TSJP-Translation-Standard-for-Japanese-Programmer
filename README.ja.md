@@ -1,3 +1,5 @@
+<a href="https://github.com/azmok/TSPJ-Translation-Standard-for-Programming-in-Japan-/blob/master/README.md">English version</a>
+
 # 動機
   「オブジェク」、「プロパティ」などの「カタカナ用語」に次々と出会い圧倒されたことはないでしょうか。 また、「カタカナ用語」の説明が不足しているために、用語や概念を理解するために、日本語から元の英単語を探し、英単語の意味を調べたり、その用語の解説（英語）を読んだりと、再起的に用語検索をしたことはないでしょうか。
 
