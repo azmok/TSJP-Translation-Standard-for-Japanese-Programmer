@@ -45,7 +45,7 @@
       <tr>
          <td>-</td>
          <td>dash, hyphen</td>
-         <td>ダッシュ(記号)</td>
+         <td>マイナス記号, ダッシュ(記号)</td>
       </tr>
       <tr>
          <td>+</td>
@@ -55,7 +55,7 @@
       <tr>
          <td>=</td>
          <td>equal sign</td>
-         <td>マイナス記号</td>
+         <td>等号, イコール</td>
       </tr>
       <tr>
          <td>:</td>
