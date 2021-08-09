@@ -1,12 +1,8 @@
-<style>i{
-	color: red;
-	}
-</style>
 <table>
    <thead>
       <tr>
          <th title="Field #1">English</th>
-         <th title="Field #2"><u><i>新翻訳</u></i></th>
+         <th title="Field #2"><i style="font-size: 1.25em;">新翻訳</i></th>
          <th title="Field #3">既存の翻訳</th>
       </tr>
    </thead>
