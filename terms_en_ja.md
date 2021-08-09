@@ -1,3 +1,6 @@
+<style>i{
+	color: red;
+	}
 <table>
    <thead>
       <tr>
