@@ -2,7 +2,7 @@
    <thead>
       <tr>
          <th title="Field #1">English</th>
-         <th title="Field #2"><b>新翻訳</b></th>
+         <th title="Field #2"><u><i>新翻訳</u></i></th>
          <th title="Field #3">既存の翻訳</th>
       </tr>
    </thead>
