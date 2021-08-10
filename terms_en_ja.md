@@ -2,8 +2,8 @@
    <thead>
       <tr>
          <th title="Field #1">English</th>
-         <th title="Field #2">私訳</th>
-         <th title="Field #3">既存</th>
+         <th title="Field #2"><i style="font-size: 1.5em;">新翻訳</i></th>
+         <th title="Field #3" style="font-weight: 400;">既存の翻訳</th>
       </tr>
    </thead>
    <tbody>

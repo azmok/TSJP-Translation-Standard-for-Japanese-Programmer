@@ -60,7 +60,7 @@ If the concept essentially doesn't exist in Japanese, or the katakana-formed is 
 
 ## Merit
 1. It enables learners to guess the meaning of the term from the 'kanji' and to understand the term like a native
-2. (1) enables learners to proceed learning if tutorial lacks explanation of the term
+2. (1) enables learners to proceed learning even if the tutorial lacks explanation of the term
 
 
 
