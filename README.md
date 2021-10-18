@@ -1,50 +1,58 @@
 <a href="https://github.com/azmok/TSPJ-Translation-Standard-for-Programming-in-Japan-/blob/master/README.ja.md">日本語版</a>
 
 # Motivation
-Have you ever been overwhelmed by encountering 'katakana-formed term', e.g., 'オブジェク', 'プロパティ', one after another. Or, Have you ever searched recursively from Japanese to English to understand the terms or concepts due to katakana-formed and lack of explaination of the 'katakana-formed term'.
+Have you ever been overwhelmed by encountering 'katakana translation', e.g., 'オブジェク', 'プロパティ', one after another. Or, Have you ever searched recursively from Japanese to English to understand the terms or concepts due to katakana-formed and lack of explaination of the 'katakana-translated word', and did it led you to consume a lot of time?
 
-In fact, I had experirenced many times in MDN(ja) or other websites (So, I've been learning programming in English as of those event). This extremely discourage learners, especially beginners, and it makes extremely difficult to grasp the whole about topics. Due to this, you may concluded that it was your inability not to understand the topics. But those distress is caused by conjunction of 'katakana-formed term' and lack of explanation of the terms.
+In fact, I had experirenced many times in MDN(ja) or other websites. This made it dificcult for me to understand the sentence or topics, and, in additon, this also made me feel pain. So, I've been learning programming in English as of those event. 
 
-In addition, those distress are essentially not relevant to programming itself.
+Almost all tutorials in Japanese webiste uses 'katakana translation' with no explanation of those words, and this makes it difficult for the learner, especially beginner, to understand the sentence or the topics. Also, This makes the learner consume more and more time due to recursive searching to understand the meaning of 'katakana-translated words'. As a consequences, the learner lose motivation to continue to learn programming.
 
-This is not anybody else's faultness, but such deficiency definitely creates unreasonable wall for learners. For creators of tutorials, those are kind enough to spare times making tutorials for learners that follows without fees. 
+You may experience those event.
 
+The reason that those event occured is essentially the heavy use of katakana translation and lack of explanations of the 'katakana-translated words'.
+
+no one undersand sentences that heavily use katakana translation and lack explanations of the 'katakana-translated words'
+
+For instance, if you'd ever learned English at high school, you may notice the importance of knowledge of the meaning of all words to understand the sentences. If you find two or three unknown words in paragraph and, in addition, if those unknown words plays a important role to grasp the whole sentence, you proverbly won't understand the sentence. This will occur in your mother language, i.e. Japanese.
+
+I assume that many programming learners feel difficult to learn programming as a result of heavy use of katakana translated words. But, basically, Neither learning programming is  difficult things, nor the concepts in programming are difficult. It's very simple, logical and enjoyable! this is my honest feelings as I've been learning programming in four years.
+
+This is not anybody else's faultness. For creators of tutorials, those are kind enough to spare times making tutorials for learners that follows without fees. However, such deficiency definitely creates unreasonable wall for learners. 
 
 I absolutely love coding and learning programming! So, I want to take the wall away and prevent beginners or learners from leaving programming world. Programming is compelling and enjoyable! XD
 
 
 
 
-# General steps to understand terms in Japanese and in English
-
-```js
-// katakanaFormed-term
-katakanaFormed-term(ja) 
-	--> explanation(ja) [Got it!] // 2 steps
-
-// English
-term(en) 
-	--> explanation(en) [Got it!] // 2 steps
-```
-
-
-
 
 # The reason why we should standardize en-ja translation of terms
-Standardization is not necessary if all Japanese tutorials fulfill the two steps like above flows. The number of the steps both in Japanese and in English are equal, and no problem even if terms is translated into katakana-formed.
+I revealed below the steps of each mother language people to understand the word in each situation; English native people, Japanese people in katakana translation and in poper translation.
 
-But, in fact, almost all websites don't fulfill the above condition. In worse case, the explanation about katakana-formed terms that is rare in Japanese website, do exists, however it's incorrect.
-
-If we encounter the situation that the tutorial or the documentation contains katakana-formed term and no explanation of that term, we certainly follow the below steps:
-
+***English native people***
 
 ```js
-// katakanaFormed-term
-katakanaFormed-term(ja)
-	--> definition(en)
-	--> explanation(en) [Got it!] // 3steps
+term(English)               [got it!]   // 1step
 ```
 
+
+
+***Japanese people***
+***katakana translation***
+```js
+katakana translated word(Japanes)
+  ---> defintion(English)   [got it!]   // 2step
+```
+
+
+***proper translation***
+```js
+term(Japanes)               [got it!]   // 1step
+
+//
+```
+
+
+According to above comparison, both steps number of proper translation for Japanese people and English native people are the same.
 
 
 
