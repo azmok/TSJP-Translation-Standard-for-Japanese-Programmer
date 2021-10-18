@@ -868,7 +868,7 @@
       <tr>
          <td>token</td>
          <td>引換券、印、表象(物)
-            <span class="td-desc">プログラミングにおいては、「プログラミング言語の構成要素の一つ」という意味で使わる。リテラル具体例: <code>20</code>, <code>true</code>, <code>if</code>。リテラル ⊇ トークン
+            <span class="td-desc">プログラミングにおいては、「プログラミング言語の構成要素の一つ」という意味でも使わる。リテラル具体例: <code>20</code>, <code>true</code>, <code>if</code>。リテラル ⊃ トークン
             </span>
          </td>
          <td>トークン</td>
