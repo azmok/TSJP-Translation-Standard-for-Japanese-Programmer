@@ -318,6 +318,11 @@
          <td>エンドポイント</td>
       </tr>
       <tr>
+         <td>entity</td>
+         <td>存在</td>
+         <td> </td>
+      </tr>
+      <tr>
          <td>environment record</td>
          <td>環境記録</td>
          <td> </td>
@@ -499,7 +504,10 @@
       </tr>
       <tr>
          <td>literal</td>
-         <td>語句</td>
+         <td>語句, 
+            <span class="td-desc">プログラミングでは、「ソースコード内で変化しえない値」の意味で使われる。リテラル ⊃ トークン。
+            </span>
+         </td>
          <td>リテラル</td>
       </tr>
       <tr>
@@ -536,6 +544,21 @@
          <td>multiplication</td>
          <td>掛け算</td>
          <td>掛け算,乗法</td>
+      </tr>
+      <tr>
+         <td>mutate</td>
+         <td>変異する</td>
+         <td>変異する</td>
+      </tr>
+      <tr>
+         <td>immutable</td>
+         <td>変異不可能な</td>
+         <td>変異不可能な</td>
+      </tr>
+      <tr>
+         <td>immutability</td>
+         <td>変異不可能性</td>
+         <td>変異不可能性</td>
       </tr>
       <tr>
          <td>null</td>
@@ -844,7 +867,10 @@
       </tr>
       <tr>
          <td>token</td>
-         <td>引換券、印</td>
+         <td>引換券、印、表象(物)
+            <span class="td-desc">プログラミングにおいては、「プログラミング言語の構成要素の一つ」という意味で使わる。リテラル具体例: <code>20</code>, <code>true</code>, <code>if</code>。リテラル ⊇ トークン
+            </span>
+         </td>
          <td>トークン</td>
       </tr>
       <tr>
