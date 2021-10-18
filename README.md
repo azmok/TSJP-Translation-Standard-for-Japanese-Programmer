@@ -1,11 +1,11 @@
 <a href="https://github.com/azmok/TSPJ-Translation-Standard-for-Programming-in-Japan-/blob/master/README.ja.md">日本語版</a>
 
 # Motivation
-Have you ever been overwhelmed by encountering 'katakana-translated words', e.g., 'オブジェク', 'プロパティ', one after another. Or, Have you ever searched recursively from Japanese to English to understand the terms or concepts due to katakana-translated word and lack of explaination of the 'katakana-translated word', and did it led you to consume a lot of time?
+Have you ever been overwhelmed by encountering 'katakana-translated words', e.g., 'オブジェク', 'プロパティ', one after another. Or, Have you ever searched repeatedly from Japanese to English to understand the terms or concepts due to katakana-translated word and lack of explaination of the 'katakana-translated word', and did it led you to consume a lot of time?
 
 In fact, I had experirenced many times in MDN(ja) or other websites. This made it dificcult for me to understand the sentence or topics, and, in additon, this also made me feel pain. So, I've been learning programming in English as of those event. 
 
-Almost all tutorials in Japanese webiste uses 'katakana-translated word' with no explanation of those words, and this makes it difficult for the learner, especially beginner, to understand the sentence or the topics. Also, This makes the learner consume more and more time due to recursive searching to understand the meaning of 'katakana-translated words'. As a consequences, the learner lose motivation to continue to learn programming.
+Almost all tutorials in Japanese webiste uses 'katakana-translated word' with no explanation of those words, and this makes it difficult for the learner, especially beginner, to understand the sentence or the topics. Also, This makes the learner consume more and more time due to repetitive searching to understand the meaning of 'katakana-translated words'. As a consequences, the learner lose motivation to continue to learn programming.
 
 You may experience those event.
 
