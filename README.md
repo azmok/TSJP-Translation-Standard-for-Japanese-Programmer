@@ -9,7 +9,7 @@ Almost all tutorials in Japanese webiste uses 'katakana-translated term' with no
 
 You may already experience those event.
 
-The reason that those event occured is essentially the heavy use of katakana-translation and lack of explanations of the 'katakana-translated terms'.
+The reason that those event occured is essentially the heavy use of katakana translation and lack of explanations of the 'katakana-translated terms'.
 
 Anybody else don't undersand sentences that heavily use katakana-translated term and lack explanations of the 'katakana-translated terms'.
 
@@ -38,7 +38,7 @@ term(English)               [got it!]   // 1step
 
 ***Japanese people*** in ***katakana-translation***
 ```js
-katakana translated term(Japanes)
+katakana-translated-term(Japanes)
   ---> defintion(English)   [got it!]   // 2step
 ```
 
