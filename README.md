@@ -26,25 +26,25 @@ I absolutely love coding and learning programming! So, I want to take the wall a
 
 
 # The reason why we should standardize en-ja translation of terms
-I revealed below the steps of each mother language people to understand the term in each situation; English native people, Japanese people in katakana-translation and in proper translation.
+I revealed below the steps of each mother language people to understand the term in each situation; English native people, Japanese people in katakana-translation and Japanese people in proper translation.
 
 ***English native people***
 
-```js
+```
 term(English)               [got it!]   // 1 step
 ```
 
 
 
 ***Japanese people*** in ***katakana-translation***
-```js
+```
 katakana-translated-term(Japanes)
   ---> defintion(English)   [got it!]   // 2 steps
 ```
 
 
 ***Japanese people*** in ***proper translation***
-```js
+```
 term(Japanes)               [got it!]   // 1 step
 
 //
