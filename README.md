@@ -38,20 +38,20 @@ term(English)               [got it!]   // 1 step
 
 ***Japanese people*** in ***katakana-translation***
 ```
-katakana-translated-term(Japanes)
+katakana-translated-term(Japanese)
   ---> defintion(English)   [got it!]   // 2 steps
 ```
 
 
 ***Japanese people*** in ***proper translation***
 ```
-term(Japanes)               [got it!]   // 1 step
+term(Japanese)               [got it!]   // 1 step
 
 //
 ```
 
 
-According to above comparison, both steps number of proper translation for Japanese people and English native people are the same.
+According to above comparison, both steps number of Japanese people in proper translation and English native people are the same.
 
 
 
