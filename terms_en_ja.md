@@ -168,6 +168,11 @@
          <td>コマンド</td>
       </tr>
       <tr>
+         <td>commit</td>
+         <td>専念する, 実行する</td>
+         <td>コマンド</td>
+      </tr>
+      <tr>
          <td>compile</td>
          <td>変換</td>
          <td>コンパイル</td>
