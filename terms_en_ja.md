@@ -218,6 +218,11 @@
          <td>コンテキスト</td>
       </tr>
       <tr>
+         <td>context free grammar</td>
+         <td>文脈非依存文法</td>
+         <td>文脈自由文法</td>
+      </tr>
+      <tr>
          <td>coroutine</td>
          <td>共定例処理</td>
          <td>コルーチン</td>
@@ -289,7 +294,7 @@
       </tr>
       <tr>
          <td>directory</td>
-         <td>区分</td>
+         <td>ディレクトリ(ファイルやプログラムが格納されている場所), 帳簿</td>
          <td>ディレクトリ</td>
       </tr>
       <tr>
@@ -421,6 +426,11 @@
          <td>higher order function</td>
          <td>高階関数</td>
          <td>高階関数</td>
+      </tr>
+      <tr>
+         <td>home</td>
+         <td>ホーム, 本拠地</td>
+         <td>ホーム</td>
       </tr>
       <tr>
          <td>host</td>
@@ -711,6 +721,11 @@
          <td> </td>
       </tr>
       <tr>
+         <td>regular expression</td>
+         <td>規則的表記</td>
+         <td>正規表現</td>
+      </tr>
+      <tr>
          <td>reminder</td>
          <td>余り</td>
          <td>余り</td>
@@ -729,6 +744,11 @@
          <td>return value</td>
          <td>返却値</td>
          <td>[返却値/戻り値]</td>
+      </tr>
+      <tr>
+         <td>root</td>
+         <td>根源, 経路</td>
+         <td>ルート</td>
       </tr>
       <tr>
          <td>routing</td>
