@@ -123,6 +123,11 @@
          <td>カスケーディング</td>
       </tr>
       <tr>
+         <td>case sensitivity </td>
+         <td>形態過敏性</td>
+         <td></td>
+      </tr>
+      <tr>
          <td>chaining</td>
          <td>チェーン化</td>
          <td> </td>
@@ -536,6 +541,11 @@
          <td>ループ</td>
       </tr>
       <tr>
+         <td>lower case</td>
+         <td>低形態</td>
+         <td></td>
+      </tr>
+      <tr>
          <td>Map</td>
          <td>対化、一対一対応</td>
          <td>マップ</td>
@@ -919,6 +929,11 @@
          <td>ユニット</td>
       </tr>
       <tr>
+         <td>upper case</td>
+         <td>高形態</td>
+         <td></td>
+      </tr>
+      <tr>
          <td>user</td>
          <td>使用主</td>
          <td>ユーザー</td>
@@ -943,5 +958,16 @@
          <td>空</td>
          <td>void</td>
       </tr>
+      <tr>
+         <td>working directory</td>
+         <td>作業中ディレクトリ</td>
+         <td></td>
+      </tr>
+      <tr>
+         <td>working tree</td>
+         <td>作業中の木</td>
+         <td></td>
+      </tr>
+      
    </tbody>
 	</table>
