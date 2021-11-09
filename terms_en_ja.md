@@ -253,9 +253,9 @@
          <td>宣言</td>
       </tr>
       <tr>
-         <td>declarative</td>
-         <td>宣言的</td>
-         <td>宣言型</td>
+         <td>declarative programming</td>
+         <td>宣言的プログラミング</td>
+         <td>宣言型プログラミング</td>
       </tr>
       <tr>
          <td>decrement</td>
@@ -408,6 +408,11 @@
          <td>関数構成</td>
       </tr>
       <tr>
+         <td>functional programming</td>
+         <td>関数的プログラミング</td>
+         <td>関数型プログラミング:</td>
+      </tr>
+      <tr>
          <td>generator</td>
          <td>生成係</td>
          <td>ジェネレーター</td>
@@ -448,10 +453,11 @@
          <td>id</td>
       </tr>
       <tr>
-         <td>imperative</td>
-         <td>命令的</td>
-         <td>命令型</td>
+         <td>imperative programming</td>
+         <td>命令的プログラミング</td>
+         <td>命令型プログラミング</td>
       </tr>
+      
       <tr>
          <td>increment</td>
          <td>増加</td>
@@ -524,9 +530,9 @@
       </tr>
       <tr>
          <td>literal</td>
-         <td>語句, 
-            <span class="td-desc">プログラミングでは、「ソースコード内で変化しえない値」の意味で使われる。リテラル ⊃ トークン。
-            </span>
+         <td>語句
+            <sup>プログラミングでは、「ソースコード内で変化しえない値」の意味で使われる。リテラル ⊃ トークン。
+            </sup>
          </td>
          <td>リテラル</td>
       </tr>
@@ -691,6 +697,11 @@
          <td>プリプロセッサー</td>
       </tr>
       <tr>
+         <td>procedural programming</td>
+         <td>手順的プログラミング</td>
+         <td>手順型プログラミング</td>
+      </tr>
+      <tr>
          <td>process</td>
          <td>処理(過程)</td>
          <td>プロセス</td>
@@ -831,6 +842,11 @@
          <td>ストリーム</td>
       </tr>
       <tr>
+         <td>structural programming</td>
+         <td>構造的プログラミング</td>
+         <td>構造型プログラミング</td>
+      </tr>
+      <tr>
          <td>string</td>
          <td>文字列</td>
          <td>文字列</td>
@@ -903,8 +919,8 @@
       <tr>
          <td>token</td>
          <td>引換券、印、表象(物)
-            <span class="td-desc">プログラミングにおいては、「プログラミング言語の構成要素の一つ」という意味でも使わる。リテラル具体例: <code>20</code>, <code>true</code>, <code>if</code>。リテラル ⊃ トークン
-            </span>
+            <sup>プログラミングにおいては、「プログラミング言語の構成要素の一つ」という意味でも使わる。リテラル具体例: <code>20</code>, <code>true</code>, <code>if</code>。リテラル ⊃ トークン
+            </sup>
          </td>
          <td>トークン</td>
       </tr>
