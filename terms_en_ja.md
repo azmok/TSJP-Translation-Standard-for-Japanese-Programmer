@@ -915,7 +915,7 @@
       <tr>
          <td>token</td>
          <td>引換券、印、表象(物)<br/>
-            <sup>プログラミングにおいては、「プログラミング言語の構成要素の一つ」という意味でも使わる。リテラル具体例: <code>20</code>, <code>true</code>, <code>if</code>。リテラル ⊃ トークン</sup>[Math is Fun —Set Theory](https://www.mathsisfun.com/sets/symbols.html)</td>
+            <sup>プログラミングにおいては、「プログラミング言語の構成要素の一つ」という意味でも使わる。リテラル具体例: <code>20</code>, <code>true</code>, <code>if</code>。リテラル ⊃ トークン[Math is Fun —Set Theory](https://www.mathsisfun.com/sets/symbols.html)</sup></td>
          <td>トークン</td>
       </tr>
       <tr>
