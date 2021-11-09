@@ -410,7 +410,7 @@
       <tr>
          <td>functional programming</td>
          <td>関数的プログラミング</td>
-         <td>関数型プログラミング:</td>
+         <td>関数型プログラミング</td>
       </tr>
       <tr>
          <td>generator</td>
@@ -457,7 +457,6 @@
          <td>命令的プログラミング</td>
          <td>命令型プログラミング</td>
       </tr>
-      
       <tr>
          <td>increment</td>
          <td>増加</td>
