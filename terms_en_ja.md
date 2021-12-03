@@ -640,7 +640,7 @@
       </tr>
       <tr>
          <td>option</td>
-         <td>補足</td>
+         <td>付加</td>
          <td>オプション</td>
       </tr>
       <tr>
