@@ -1,11 +1,12 @@
 <table>
    <thead>
       <tr>
-         <th title="Field #1">English</th>
-         <th title="Field #2"><i style="font-size: 1.5em;">新翻訳</i></th>
-         <th title="Field #3" style="font-weight: 400;">既存の翻訳</th>
+         <th>English</th>
+         <th>新翻訳</th>
+         <th>既存の翻訳</th>
       </tr>
    </thead>
+   
    <tbody>
       <tr>
          <td>*-based</td>
@@ -562,7 +563,6 @@
          </td>
          <td>メカニズム</td>
       </tr>
-       
       <tr>
          <td>method</td>
          <td>術</td>
@@ -606,7 +606,7 @@
       <tr>
          <td>node tree</td>
          <td>分岐点の木</td>
-         <td></td>
+         <td>ノードの木</td>
       </tr>
       <tr>
          <td>null</td>
@@ -992,13 +992,13 @@
       <tr>
          <td>working directory</td>
          <td>作業中ディレクトリ</td>
-         <td></td>
+         <td> </td>
       </tr>
       <tr>
          <td>working tree</td>
          <td>作業中の木</td>
-         <td></td>
+         <td> </td>
       </tr>
       
    </tbody>
-	</table>
+</table>
