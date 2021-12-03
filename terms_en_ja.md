@@ -529,7 +529,10 @@
       </tr>
       <tr>
          <td>literal</td>
-         <td>語句<br/><sup>プログラミングでは、「ソースコード内で変化しえない値」の意味で使われる。リテラル ⊃ トークン。[Math is Fun —Set Theory](https://www.mathsisfun.com/sets/symbols.html)</sup></td>
+         <td>語句<br/>
+            <sup>プログラミングでは、「ソースコード内で変化しえない値」の意味で使われる。リテラル ⊃ トークン。[Math is Fun —Set Theory](https://www.mathsisfun.com/sets/symbols.html)
+            </sup>
+         </td>
          <td>リテラル</td>
       </tr>
       <tr>
@@ -552,6 +555,14 @@
          <td>対化、一対一対応</td>
          <td>マップ</td>
       </tr>
+      <tr>
+         <td>mechanism</td>
+         <td>機序<br />
+            <sup>有機的な集合体で物事が起こる順番</sup>
+         </td>
+         <td>メカニズム</td>
+      </tr>
+       
       <tr>
          <td>method</td>
          <td>術</td>
@@ -589,8 +600,13 @@
       </tr>
       <tr>
          <td>node</td>
-         <td>接合点, 分岐点</td>
+         <td>分岐点, 接合点</td>
          <td>ノード</td>
+      </tr>
+      <tr>
+         <td>node tree</td>
+         <td>分岐点の木</td>
+         <td></td>
       </tr>
       <tr>
          <td>null</td>
