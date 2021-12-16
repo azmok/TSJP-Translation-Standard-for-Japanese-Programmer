@@ -28,7 +28,7 @@ I absolutely love coding and learning programming! So, I want to take the wall a
 # The reason why we should standardize en-ja translation of terms
 I revealed below the steps of each language natives to understand the term in each situation; English native in English, Japanese native in katakana-translation and in proper translation.
 
-***English native people***
+***English native in English***
 
 ```
 term(English)               [got it!]   // 1 step
@@ -36,14 +36,14 @@ term(English)               [got it!]   // 1 step
 
 
 
-***Japanese people*** in ***katakana-translation***
+***Japanese native*** in ***katakana-translation***
 ```
 katakana-translated-term(Japanese)
   ---> defintion(English)   [got it!]   // 2 steps
 ```
 
 
-***Japanese people*** in ***proper translation***
+***Japanese native*** in ***proper translation***
 ```
 term(Japanese)               [got it!]   // 1 step
 
@@ -51,15 +51,15 @@ term(Japanese)               [got it!]   // 1 step
 ```
 
 
-According to above comparison, both steps number of Japanese people in proper translation and English native people are the same.
+According to above comparison, both steps of Japanese native in proper translation and English native are the same.
 
 
 
 # Solution
-I suggest standardizing translation of terms for programming, that is, listing the terms that are fundamental in any programming language, and terms listed is tranlsated from English to Japanese in parallel. The translated Japanese term may be only one or more, and if the translated Japanese are two or more, those could be picked by the user, creator of the tutorial or translator of the documentation, according to its context.
+I suggest standardizing translation of terms for programming, that is, listing the terms that are fundamental in any programming languages, and terms listed is tranlsated from English to Japanese in parallel. The translated Japanese term may be only one or more, and if the translated Japanese are two or more, those could be picked by the user, creator of the tutorial or translator of the documentation, according to its context.
 
 
-If the concept essentially doesn't exist in Japanese, or the katakana-translated term is usually accepted as 'WASEI EIGO' in Japan, I've tranlsated those terms to 'katakana-translated term'.
+If the concept essentially doesn't exist in Japanese, or the katakana-translated term is usually accepted as 'WASEI EIGO', I've tranlsated those terms to 'katakana-translated term'.
 
 <a href='https://github.com/azmok/TSPJ-Translation-Standard-for-Programming-in-Japan-/blob/master/terms_en_ja.md' target='_blank'>🚀Parallel en-ja Translation Table🚀</a>
 
