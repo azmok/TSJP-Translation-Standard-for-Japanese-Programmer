@@ -11,7 +11,7 @@ You may already experience those event.
 
 The reason that those event occured is essentially the heavy use of katakana translation and lack of explanations of the 'katakana-translated terms'.
 
-Noybody else understand sentences that heavily contain katakana translation and lack explanations of the 'katakana-translated terms'.
+Noybody understand sentences that heavily contain katakana translation and lack explanations of the 'katakana-translated terms'.
 
 For instance, if you'd ever learned English at high school, you may noticed the importance of knowledge of the meaning of all terms to understand the sentences. If you find two or three unknown terms in paragraph and, in addition, if those unknown terms plays a important role to grasp the whole sentence, you probably won't understand the sentence. This will also occur in your mother language, i.e. Japanese.
 
