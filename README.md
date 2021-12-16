@@ -3,9 +3,9 @@
 # Motivation
 Have you ever been overwhelmed by encountering 'katakana-translated terms', e.g., 'オブジェク', 'プロパティ', one after another. Or, Have you ever searched repeatedly from Japanese to English to understand the terms or concepts due to katakana-translated term and lack of explaination of the 'katakana-translated term', and did it led you to consume a lot of time?
 
-In fact, I had experirenced many times in MDN(ja) or other websites. This made it difficult for me to understand the sentence or topics, and, in additon, this also made me feel pain. So, I've been learning programming in English as of those event. 
+In fact, I had experirenced many times in MDN(ja) or other websites. This made me difficult to understand the sentence or topics, and, in additon, this also made me feel pain. So, I've been learning programming in English as of those event. 
 
-Almost all tutorials in Japanese webiste uses 'katakana-translated term' with no explanation of those terms, and this makes it difficult for the learner, especially beginner, to understand the sentence or the topics. Also, This makes the learner consume more and more time due to repetitive searching to understand the meaning of 'katakana-translated terms'. As a consequences, the learner lose motivation to continue to learn programming.
+Almost all tutorials in Japanese webiste uses 'katakana-translated term' with no explanation of those terms, and this makes the learner ,especially beginner, difficult to understand the sentence or the topics. Also, This makes the learner consume more and more time due to repetitive searching to understand the meaning of 'katakana-translated terms'. As a consequences, the learner lose motivation to continue to learn programming.
 
 You may already experience those event.
 
@@ -15,7 +15,7 @@ Anybody else don't undersand sentences that heavily contain katakana translation
 
 For instance, if you'd ever learned English at high school, you may noticed the importance of knowledge of the meaning of all terms to understand the sentences. If you find two or three unknown terms in paragraph and, in addition, if those unknown terms plays a important role to grasp the whole sentence, you proverbly won't understand the sentence. This will also occur in your mother language, i.e. Japanese.
 
-I assume that many programming learners feel difficult to learn programming as a result of heavy use of katakana translation. But, basically, Neither learning programming is  difficult things, nor the concepts in programming are difficult. It's very simple, logical and enjoyable! This is my honest feelings as I've been learning programming in four years.
+I assume that many programming learners feel difficult to learn programming as a result of heavy use of katakana translation. But, basically, Neither learning programming nor the concepts in programming are difficult. It's very simple, logical and enjoyable! This is my honest feelings as I've been learning programming in four years.
 
 This is not anybody else's faultness. For creators of tutorials, those are kind enough to spare times making tutorials for learners that follows without fees. However, such deficiency definitely creates unreasonable wall for learners. 
 
@@ -26,7 +26,7 @@ I absolutely love coding and learning programming! So, I want to take the wall a
 
 
 # The reason why we should standardize en-ja translation of terms
-I revealed below the steps of each mother language people to understand the term in each situation; English native people, Japanese people in katakana-translation and Japanese people in proper translation.
+I revealed below the steps of each language natives to understand the term in each situation; English native in English, Japanese native in katakana-translation and in proper translation.
 
 ***English native people***
 
