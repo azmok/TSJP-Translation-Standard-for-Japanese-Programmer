@@ -11,9 +11,9 @@ You may already experience those event.
 
 The reason that those event occured is essentially the heavy use of katakana translation and lack of explanations of the 'katakana-translated terms'.
 
-Anybody else don't undersand sentences that heavily contain katakana translation and lack explanations of the 'katakana-translated terms'.
+Anybody else don't understand sentences that heavily contain katakana translation and lack explanations of the 'katakana-translated terms'.
 
-For instance, if you'd ever learned English at high school, you may noticed the importance of knowledge of the meaning of all terms to understand the sentences. If you find two or three unknown terms in paragraph and, in addition, if those unknown terms plays a important role to grasp the whole sentence, you proverbly won't understand the sentence. This will also occur in your mother language, i.e. Japanese.
+For instance, if you'd ever learned English at high school, you may noticed the importance of knowledge of the meaning of all terms to understand the sentences. If you find two or three unknown terms in paragraph and, in addition, if those unknown terms plays a important role to grasp the whole sentence, you probably won't understand the sentence. This will also occur in your mother language, i.e. Japanese.
 
 I assume that many programming learners feel difficult to learn programming as a result of heavy use of katakana translation. But, basically, Neither learning programming nor the concepts in programming are difficult. It's very simple, logical and enjoyable! This is my honest feelings as I've been learning programming in four years.
 
