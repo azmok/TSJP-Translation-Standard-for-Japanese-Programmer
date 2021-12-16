@@ -5,7 +5,7 @@ Have you ever been overwhelmed by encountering 'katakana-translated terms', e.g.
 
 In fact, I had experirenced many times in MDN(ja) or other websites. This made me difficult to understand the sentence or topics, and, in additon, this also made me feel pain. So, I've been learning programming in English as of those event. 
 
-Almost all tutorials in Japanese webiste uses 'katakana-translated term' with no explanation of those terms, and this makes the learner ,especially beginner, difficult to understand the sentence or the topics. Also, This makes the learner consume more and more time due to repetitive searching to understand the meaning of 'katakana-translated terms'. As a consequences, the learner lose motivation to continue to learn programming.
+Almost all tutorials in Japanese website uses 'katakana-translated term' with no explanation of those terms, and this makes the learner ,especially beginner, difficult to understand the sentence or the topics. Also, This makes the learner consume more and more time due to repetitive searching to understand the meaning of 'katakana-translated terms'. As a consequences, the learner lose motivation to continue to learn programming.
 
 You may already experience those event.
 
