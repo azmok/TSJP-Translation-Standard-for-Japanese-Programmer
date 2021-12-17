@@ -21,8 +21,9 @@ This is not anybody else's faultness. For creators of tutorials, those are kind 
 
 I absolutely love coding and learning programming! So, I want to take the wall away and prevent beginners or learners from leaving programming world. Programming is compelling and enjoyable! XD
 
+By the way, When you learn programming in English, such deficiency doesn't occur at all. The reason is that tutorials or explanations are fully composed of ordinary words, so easy to understand, not difficult at all.
 
-
+The reason that such problem occur is that japanese developer who isn't proficient in English create 'katakana-translated terms' and, as a result, it led to the words or sentences that nobody understand.
 
 
 # The reason why we should standardize en-ja translation of terms
