@@ -9,15 +9,15 @@ Almost all tutorials in Japanese website uses 'katakana-translated term' with no
 
 You may already experience those event.
 
-The reason that those event occured is essentially the heavy use of katakana translation and no explanations of those terms.
+The reason that those event occured is essentially the heavy use of katakana translations and no explanations of those terms.
 
 Anybody else don't understand sentences that heavily contain katakana translation and no explanations of those terms.
 
 For instance, if you'd ever learned English at high school, you may noticed the importance of knowledge of the meaning of all terms to understand the sentences. If you find two or three unknown terms in a paragraph and, in addition, if those unknown terms play important roles to grasp the whole sentence, you probably won't understand the whole sentence. This will also occur in your mother language, i.e. Japanese.
 
-I assume that many programming learners feel difficult to learn programming as a result of heavy use of katakana translation. But, basically, Neither learning programming nor the concepts in programming are difficult. It's very simple, logical and enjoyable! This is my honest feelings as I've been learning programming in four years.
+I assume that many programming learners feel difficult to learn programming as a result of heavy use of katakana translation. But, basically, neither learning programming nor the concepts in programming are difficult. It's very simple, logical and enjoyable! This is my honest feelings as I've been learning programming in four years.
 
-This is not anybody else's faultness. For creators of tutorials, those are kind enough to spare times making tutorials without fees for learners that follow. However, such deficiency definitely creates unreasonable wall for learners. 
+This is nobody else's faultness. For creators of tutorials, those are kind enough to spare times making tutorials without fees for learners that follow. However, such deficiency definitely creates unreasonable wall for learners. 
 
 I absolutely love coding and learning programming! So, I want to take the wall away and prevent beginners or learners from leaving programming world. Programming is compelling and enjoyable! XD
 
@@ -27,7 +27,7 @@ The reason that such problem occur is that japanese developer who isn't proficie
 
 
 # The reason why we should standardize en-ja translation of terms
-I revealed below the steps of each language natives to understand the term in each situation; English native in English, Japanese native in katakana-translation and in proper translation.
+I revealed below the steps for each language natives to understand the term in each situation; Japanese native in katakana-translation and Japanese native in proper translation, and English native in English.
 
 ***English native in English***
 
@@ -57,10 +57,10 @@ According to above comparison, both steps of Japanese native in proper translati
 
 
 # Solution
-I suggest standardizing translation of terms for programming, that is, listing the terms that are fundamental in any programming languages, and terms listed is tranlsated from English to Japanese in parallel. The translated Japanese term may be only one or more, and if the translated Japanese are two or more, those could be picked by the user, creator of the tutorial or translator of the documentation, according to its context.
+I suggest standardizing translation of terms for programming. That is, list the terms that are fundamental in any programming languages and arrange tranlsations. The translated Japanese term may be only one or more, and if those are two or more, those could be picked by the user, creator of the tutorial or translator of the documentation, according to its context.
 
 
-If the concept essentially doesn't exist in Japanese, or the katakana-translated term is usually accepted as 'WASEI EIGO', I've tranlsated those terms to 'katakana-translated term'.
+If the concept essentially doesn't exist in Japanese, or the katakana translation is usually accepted as 'WASEI EIGO', I've tranlsated those term as 'katakana translation'.
 
 <a href='https://github.com/azmok/TSPJ-Translation-Standard-for-Programming-in-Japan-/blob/master/terms_en_ja.md' target='_blank'>🚀Parallel en-ja Translation Table🚀</a>
 
