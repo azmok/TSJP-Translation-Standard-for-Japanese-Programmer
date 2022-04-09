@@ -1,23 +1,23 @@
 <a href="https://github.com/azmok/TSPJ-Translation-Standard-for-Programming-in-Japan-/blob/master/README.ja.md">日本語版</a>
 
 # Motivation
-Have you ever been overwhelmed by encountering 'katakana-translated terms', e.g., 'オブジェク', 'プロパティ', one after another. Or, Have you ever searched repeatedly from Japanese to English to understand the terms or concepts due to katakana-translated term and no explanation of the 'katakana-translated term', and did it lead you to consume a lot of time?
+Have you ever been overwhelmed by encountering 'katakana-translated terms', e.g., 'オブジェク', 'プロパティ', one after another. Or, Have you ever searched repeatedly from Japanese to English to understand the terms or concepts due to katakana-translated term and no explanation of the those, and did it lead you to consume a lot of time?
 
 In fact, I had experirenced many times in MDN(ja) or other websites. This made me difficult to understand the sentence or topic, and, in additon, this also made me feel pain. So, I've been learning programming in English as of those event. 
 
-Almost all tutorials in Japanese website uses 'katakana-translated term' with no explanation of those, and this makes the learner ,especially beginner, difficult to understand the sentence and the topic. Also, This makes the learner consume more and more time due to repetitive searching to understand the meaning of 'katakana-translated terms'. As a result, the learner lose motivation to continue to learn programming.
+Almost all tutorials in Japanese website uses 'katakana-translated term' with no explanation of those, and this makes the learner ,especially beginner, difficult to understand the sentence and the topic. Also, This makes the learner consume more and more time due to repetitive searching to understand the meaning of those. As a result, the learner lose motivation to continue to learn programming.
 
 You may already experience those event.
 
-The reason that those event occured is essentially the heavy use of katakana translation and no explanations of the 'katakana-translated terms'.
+The reason that those event occured is essentially the heavy use of katakana translation and no explanations of those terms.
 
-Anybody else don't understand sentences that heavily contain katakana translation and no explanations of the 'katakana-translated terms'.
+Anybody else don't understand sentences that heavily contain katakana translation and no explanations of those terms.
 
-For instance, if you'd ever learned English at high school, you may noticed the importance of knowledge of the meaning of all terms to understand the sentences. If you find two or three unknown terms in paragraph and, in addition, if those unknown terms plays a important role to grasp the whole sentence, you probably won't understand the whole sentence. This will also occur in your mother language, i.e. Japanese.
+For instance, if you'd ever learned English at high school, you may noticed the importance of knowledge of the meaning of all terms to understand the sentences. If you find two or three unknown terms in a paragraph and, in addition, if those unknown terms play important roles to grasp the whole sentence, you probably won't understand the whole sentence. This will also occur in your mother language, i.e. Japanese.
 
 I assume that many programming learners feel difficult to learn programming as a result of heavy use of katakana translation. But, basically, Neither learning programming nor the concepts in programming are difficult. It's very simple, logical and enjoyable! This is my honest feelings as I've been learning programming in four years.
 
-This is not anybody else's faultness. For creators of tutorials, those are kind enough to spare times making tutorials for learners that follows without fees. However, such deficiency definitely creates unreasonable wall for learners. 
+This is not anybody else's faultness. For creators of tutorials, those are kind enough to spare times making tutorials without fees for learners that follow. However, such deficiency definitely creates unreasonable wall for learners. 
 
 I absolutely love coding and learning programming! So, I want to take the wall away and prevent beginners or learners from leaving programming world. Programming is compelling and enjoyable! XD
 
