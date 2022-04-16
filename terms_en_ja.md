@@ -194,6 +194,11 @@
          <td> </td>
       </tr>
       <tr>
+         <td>component</td>
+         <td>構成要素</td>
+         <td> </td>
+      </tr>
+      <tr>
          <td>configuration</td>
          <td>初期設定化</td>
          <td> </td>
@@ -570,7 +575,7 @@
       </tr>
       <tr>
          <td>module</td>
-         <td>(構成)要素</td>
+         <td>構成体</td>
          <td>モジュール</td>
       </tr>
       <tr>
