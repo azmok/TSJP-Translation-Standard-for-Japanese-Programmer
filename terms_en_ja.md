@@ -200,12 +200,12 @@
       </tr>
       <tr>
          <td>configuration</td>
-         <td>初期設定化</td>
+         <td>設定</td>
          <td> </td>
       </tr>
       <tr>
          <td>configure</td>
-         <td>初期設定する</td>
+         <td>設定する</td>
          <td> </td>
       </tr>
       <tr>
