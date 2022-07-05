@@ -529,8 +529,13 @@
          <td>キー</td>
       </tr>
       <tr>
+         <td>lexicon</td>
+         <td>用語, 語彙</td>
+         <td> </td>
+      </tr>
+      <tr>
          <td>lexical</td>
-         <td>字句</td>
+         <td>用語的, 語彙的</td>
          <td> </td>
       </tr>
       <tr>
