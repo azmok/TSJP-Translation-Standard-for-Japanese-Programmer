@@ -295,7 +295,7 @@
       </tr>
       <tr>
          <td>differential equation</td>
-         <td>微分</td>
+         <td>微分, 差分等価文</td>
          <td>微分</td>
       </tr>
       <tr>
@@ -470,7 +470,7 @@
       </tr>
       <tr>
          <td>inequation</td>
-         <td>不等価</td>
+         <td>不等価文</td>
          <td>不等式</td>
       </tr>
       <tr>
@@ -850,7 +850,7 @@
       </tr>
       <tr>
          <td>specificity</td>
-         <td>独自性</td>
+         <td>独自性, 明瞭性</td>
          <td>優先順位,適用順,詳細度</td>
       </tr>
       <tr>
@@ -935,7 +935,7 @@
       </tr>
       <tr>
          <td>text</td>
-         <td>テキスト</td>
+         <td>テキスト, 文字</td>
          <td>テキスト</td>
       </tr>
       <tr>
@@ -956,7 +956,7 @@
       </tr>
       <tr>
          <td>type</td>
-         <td>種類</td>
+         <td>タイプ, 部類</td>
          <td>タイプ</td>
       </tr>
       <tr>
@@ -981,7 +981,7 @@
       </tr>
       <tr>
          <td>utility</td>
-         <td>公共有益性</td>
+         <td>公共有益性, 公共サービス</td>
          <td>ユーティリティ</td>
       </tr>
       <tr>
