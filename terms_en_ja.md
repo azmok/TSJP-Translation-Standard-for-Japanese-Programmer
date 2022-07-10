@@ -390,7 +390,7 @@
       </tr>
       <tr>
          <td>first class</td>
-         <td>最上級</td>
+         <td>第一クラス, 第一組</td>
          <td>第一級</td>
       </tr>
       <tr>
