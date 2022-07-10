@@ -567,6 +567,11 @@
          <td>マップ</td>
       </tr>
       <tr>
+         <td>markup, mark up sth</td>
+         <td>追記, 付加</td>
+         <td>マークアップ</td>
+      </tr>
+      <tr>
          <td>mechanism</td>
          <td>機序<br />
             <sup>有機的な集合体で物事が起こる順番</sup>
@@ -956,8 +961,8 @@
       </tr>
       <tr>
          <td>type</td>
-         <td>タイプ, 部類</td>
-         <td>タイプ</td>
+         <td>部類, 種類, タイプ</td>
+         <td>型, タイプ</td>
       </tr>
       <tr>
          <td>undefined</td>
