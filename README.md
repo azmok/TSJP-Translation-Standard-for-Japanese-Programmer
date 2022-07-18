@@ -27,7 +27,7 @@ The reason that such problem occur is that japanese developer who isn't proficie
 
 
 # The reason why we should standardize en-ja translation of terms
-I revealed below the steps for each language natives to understand the term in each situation; Japanese native in katakana-translation and Japanese native in proper translation, and English native in English.
+I revealed below the steps for each language natives to understand the term in each situation; English native in English, Japanese native in proper translation, and Japanese native in katakana-translation.
 
 ***English native in English***
 
@@ -35,7 +35,11 @@ I revealed below the steps for each language natives to understand the term in e
 term(English)               [got it!]   // 1 step
 ```
 
+***Japanese native*** in ***proper translation***
+```
+term(Japanese)               [got it!]   // 1 step
 
+//
 
 ***Japanese native*** in ***katakana-translation***
 ```
@@ -44,11 +48,7 @@ katakana-translated-term(Japanese)
 ```
 
 
-***Japanese native*** in ***proper translation***
-```
-term(Japanese)               [got it!]   // 1 step
 
-//
 ```
 
 
