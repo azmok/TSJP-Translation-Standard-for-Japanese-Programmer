@@ -53,7 +53,7 @@ katakana-translated-term(Japanese)
 
 
 
-According to above comparison, both steps of Japanese native in proper translation and English native are the same.
+According to above comparison, both steps of English native and Japanese native in proper translation are the same.
 
 
 
