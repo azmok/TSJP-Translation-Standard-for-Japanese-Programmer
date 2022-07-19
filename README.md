@@ -1,4 +1,4 @@
-<a href="https://github.com/azmok/TSPJ-Translation-Standard-for-Programming-in-Japan-/blob/master/README.md">English version</a>
+<a href="https://github.com/azmok/TSPJ-Translation-Standard-for-Programming-in-Japan-/blob/master/README.en.md">English version</a>
 
 # 動機
 
