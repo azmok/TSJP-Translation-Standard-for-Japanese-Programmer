@@ -1,4 +1,4 @@
-<a href="https://github.com/azmok/TSPJ-Translation-Standard-for-Programming-in-Japan-/blob/master/README.md">日本語版</a>
+<a href="https://github.com/azmok/TSPJ-Translation-Standard-for-Programming-in-Japan-/blob/master/README.ja.md">日本語版</a>
 
 # Motivation
 Have you ever been overwhelmed by encountering 'katakana-translated terms', e.g., 'オブジェク', 'プロパティ', one after another. Or, Have you ever searched repeatedly from Japanese to English to understand the terms or concepts due to katakana-translated term and no explanation of the those, and did it lead you to consume a lot of time?
