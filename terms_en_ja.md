@@ -530,17 +530,17 @@
       </tr>
       <tr>
          <td>lexicon</td>
-         <td>用語, 語彙</td>
+         <td>語彙, 用語</td>
          <td> </td>
       </tr>
       <tr>
          <td>lexical</td>
-         <td>用語的, 語彙的</td>
+         <td>語彙的, 用語的</td>
          <td> </td>
       </tr>
       <tr>
          <td>literal</td>
-         <td>語句<br/>
+         <td>字面<br/>
             <sup>プログラミングでは、「ソースコード内で変化しえない値」の意味で使われる。リテラル ⊂ トークン。[Math is Fun —Set Theory](https://www.mathsisfun.com/sets/symbols.html)
             </sup>
          </td>
