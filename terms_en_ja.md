@@ -541,7 +541,7 @@
       <tr>
          <td>literal</td>
          <td>字面<br/>
-            <sup>プログラミングでは、「ソースコード内で変化しえない値」の意味で使われる。リテラル ⊂ トークン。[Math is Fun —Set Theory](https://www.mathsisfun.com/sets/symbols.html)
+            <sup>プログラミングでは、「ソースコード内で変化しえない値」の意味でも使われる。リテラル ⊂ トークン。[Math is Fun —Set Theory](https://www.mathsisfun.com/sets/symbols.html)
             </sup>
          </td>
          <td>リテラル</td>
