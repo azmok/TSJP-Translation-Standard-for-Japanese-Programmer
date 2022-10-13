@@ -394,6 +394,11 @@
          <td>第一級</td>
       </tr>
       <tr>
+         <td>fragment</td>
+         <td>一部分</td>
+         <td>フラグメント</td>
+      </tr>
+      <tr>
          <td>framework</td>
          <td>枠組み</td>
          <td>フレームワーク</td>
@@ -844,9 +849,13 @@
          <td>サーバー</td>
       </tr>
       <tr>
-         <td>Set</td>
+         <td>set</td>
          <td>集合</td>
          <td>セット</td>
+      </tr><tr>
+         <td>shadow</td>
+         <td>影</td>
+         <td>シャドウ</td>
       </tr>
       <tr>
          <td>signature</td>
