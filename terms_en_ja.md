@@ -134,6 +134,11 @@
          <td> </td>
       </tr>
       <tr>
+         <td>charactor reference</td>
+         <td>文字言及</td>
+         <td></td>
+      </tr>
+      <tr>
          <td>cheat sheet</td>
          <td>一覧表、カンニングペーパー</td>
          <td>チートシート</td>
@@ -162,6 +167,11 @@
          <td>code</td>
          <td>コード</td>
          <td>コード</td>
+      </tr>
+      <tr>
+         <td>code point</td>
+         <td>コード点</td>
+         <td></td>
       </tr>
       <tr>
          <td>coefficient</td>
@@ -364,6 +374,11 @@
          <td>エラー</td>
       </tr>
       <tr>
+         <td>escape sequence</td>
+         <td>回避一連</td>
+         <td>エスケープ　シーケンス</td>
+      </tr>
+      <tr>
          <td>evaluate</td>
          <td>値を求める</td>
          <td> </td>
@@ -519,6 +534,11 @@
          <td>インターフェース</td>
       </tr>
       <tr>
+         <td>international</td>
+         <td>国際化団体</td>
+         <td></td>
+      </tr>
+      <tr>
          <td>interpreter</td>
          <td>逐次変換機 (機械語への)</td>
          <td>インタプリタ</td>
@@ -572,9 +592,9 @@
          <td>マップ</td>
       </tr>
       <tr>
-         <td>markup, mark up sth</td>
-         <td>追記, 付加</td>
-         <td>マークアップ</td>
+         <td>markup, markup language</td>
+         <td>付加言語, 上乗せ言語</td>
+         <td>マークアップ言語</td>
       </tr>
       <tr>
          <td>mechanism</td>
@@ -619,8 +639,13 @@
          <td>変異不可能性</td>
       </tr>
       <tr>
+         <td>named charactor reference</td>
+         <td>名称持ち文字言及</td>
+         <td></td>
+      </tr>
+      <tr>
          <td>node</td>
-         <td>分岐点, 接合点</td>
+         <td>節点, 接合点</td>
          <td>ノード</td>
       </tr>
       <tr>
@@ -713,6 +738,7 @@
          <td>拡張機能(群)</td>
          <td>プラグイン</td>
       </tr>
+      
       <tr>
          <td>primitive value</td>
          <td>原始値</td>
@@ -837,6 +863,11 @@
          <td>selector</td>
          <td>指定係</td>
          <td>セレクター</td>
+      </tr>
+      <tr>
+         <td>sequence</td>
+         <td>一連</td>
+         <td>シーケンス</td>
       </tr>
       <tr>
          <td>serialize</td>
