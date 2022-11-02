@@ -225,7 +225,7 @@
       </tr>
       <tr>
          <td>constructor</td>
-         <td>製造係</td>
+         <td>製作係</td>
          <td>コンストラクター</td>
       </tr>
       <tr>
