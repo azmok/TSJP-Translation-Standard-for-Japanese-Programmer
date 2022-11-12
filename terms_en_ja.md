@@ -795,6 +795,16 @@
          <td>プロバイダ</td>
       </tr>
       <tr>
+         <td>query</td>
+         <td>問い合わせ(る), 質問(する)</td>
+         <td>クエリ</td>
+      </tr>
+      <tr>
+         <td>query language</td>
+         <td>問い合わせ言語</td>
+         <td>クエリ言語</td>
+      </tr>
+      <tr>
          <td>reference</td>
          <td>参照元、一覧表</td>
          <td>リファレンス</td>
