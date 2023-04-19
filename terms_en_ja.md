@@ -738,7 +738,6 @@
          <td>拡張機能(群)</td>
          <td>プラグイン</td>
       </tr>
-      
       <tr>
          <td>primitive value</td>
          <td>原始値</td>
