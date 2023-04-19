@@ -490,7 +490,7 @@
       </tr>
       <tr>
          <td>inequation</td>
-         <td>不等価文</td>
+         <td>不等価</td>
          <td>不等式</td>
       </tr>
       <tr>
